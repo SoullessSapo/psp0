@@ -1,6 +1,6 @@
 # Proyecto PSP0
 
-Este es mi primer proyecto usando Maven y Git.
+Este es mi proyecto recuerdo uso de git.
 
 ## Clonar el repositorio
 
