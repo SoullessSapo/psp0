@@ -7,7 +7,7 @@ ejecutar comando para inicializar proyecto : mvn archetype:generate -DgroupId=ed
 
 paso 2:
 generar documentacion del proyecto:
-echo "mi primer poryecto" > REAADME.txt
+echo "mi primer poryecto" > README.txt
 echo "TODO: Copiar el texto de la licenica http://www-gnu.org/licenses/gpl.html" > LICENSE.txt
 echo "# TODO: copiar los contenidos de https://github.com/github/gitignore/blob/master/Java.gitignore" > .gitignore
 
