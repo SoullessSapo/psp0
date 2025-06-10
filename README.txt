@@ -32,3 +32,9 @@ traer directorio desde cmd usa git clone https://github.com/SoullessSapo/psp0
 
 paso 2:
 compilar proyecto con el comando mvn package
+
+
+ejemplo proceso:
+https://github.com/SoullessSapo/psp0/blob/master/src/site/resources/1.png
+https://github.com/SoullessSapo/psp0/blob/master/src/site/resources/2.png
+https://github.com/SoullessSapo/psp0/blob/master/src/site/resources/3.png
